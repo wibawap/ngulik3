@@ -1,5 +1,5 @@
 <?php
 
-echo "Ini file yg dideploy...Alhamdulillah"..
+echo "Ini file yg dideploy...Alhamdulillah";
 
 ?>
